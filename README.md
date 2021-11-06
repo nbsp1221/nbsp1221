@@ -11,6 +11,13 @@
   </a>
 </p>
 <details>
+  <summary>Wakatime Stats</summary>
+  <p></p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nbsp1221&theme=react&hide_border=true" alt="wakatime-stats" />
+  </a>
+</details>
+<details>
   <summary>GitHub Top Languages</summary>
   <p></p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
