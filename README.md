@@ -1,33 +1,38 @@
-## 🔥 Stats
-
+<h3 align="center">🔥 GitHub Stats</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=nbsp1221&theme=tokyonight&hide_border=true" alt="github-streak" />
   </a>
-</p>
-<p align="center">
+  <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nbsp1221&hide_title=true&theme=tokyonight&hide_border=true" alt="github-stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nbsp1221&theme=tokyonight&hide_border=true&hide_title=true" alt="github-stats" />
   </a>
 </p>
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nbsp1221&theme=discord&no-frame=true&column=7&margin-w=4" alt="trophy" />
+  </a>
+</p>
+<br />
 <details>
-  <summary>Wakatime Stats</summary>
+  <summary>⚡ GitHub Activity Graph</summary>
   <p></p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nbsp1221&theme=react&hide_border=true" alt="wakatime-stats" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=nbsp1221&theme=react-dark" alt="github-activity-graph" />
   </a>
 </details>
 <details>
-  <summary>GitHub Top Languages</summary>
+  <summary>👨‍💻 GitHub Top Languages</summary>
   <p></p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbsp1221&langs_count=10&theme=tokyonight&hide_border=true" alt="top-langs" />
   </a>
 </details>
 <details>
-  <summary>GitHub Activity Graph</summary>
+  <summary>🕒 Wakatime Stats</summary>
   <p></p>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=nbsp1221&theme=react-dark" alt="github-activity-graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nbsp1221&theme=react&hide_border=true" alt="wakatime-stats" />
   </a>
 </details>
