@@ -19,7 +19,7 @@
   <summary>⚡ GitHub Activity Graph</summary>
   <p></p>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=nbsp1221&theme=react-dark" alt="github-activity-graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nbsp1221&theme=react-dark" alt="github-activity-graph" />
   </a>
 </details>
 <details>
