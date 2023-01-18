@@ -36,3 +36,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nbsp1221&theme=react&hide_border=true" alt="wakatime-stats" />
   </a>
 </details>
+<hr />
+<a href="https://hits.seeyoufarm.com">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnbsp1221%2Fnbsp1221&title=HITS&edge_flat=true" alt="hits" />
+</a>
