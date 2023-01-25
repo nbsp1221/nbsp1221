@@ -5,7 +5,7 @@
   </a>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=nbsp1221&theme=tokyonight&hide_border=true&hide_title=true" alt="github-stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nbsp1221&theme=tokyonight&hide_border=true&hide_title=true&card_width=495" alt="github-stats" />
   </a>
 </p>
 <h3 align="center">🏆 GitHub Trophies</h3>
