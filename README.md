@@ -55,9 +55,9 @@
   </a>
 </details>
 <hr />
-<a href="https://hits.seeyoufarm.com">
+<a href="https://github.com/nbsp1221">
   <img
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnbsp1221%2Fnbsp1221&title=HITS&edge_flat=true"
-    alt="hits"
+    src="https://komarev.com/ghpvc/?username=nbsp1221&color=blue&style=flat"
+    alt="Profile Views"
   />
 </a>
