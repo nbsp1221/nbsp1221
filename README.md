@@ -2,14 +2,14 @@
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=nbsp1221&theme=tokyonight&hide_border=true"
+      src="https://github-readme-streak-stats-nbsp1221.vercel.app?user=nbsp1221&theme=tokyonight&hide_border=true"
       alt="GitHub Streak"
     />
   </a>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=nbsp1221&theme=tokyonight&hide_border=true&hide_title=true&card_width=495"
+      src="https://github-readme-stats-nbsp1221.vercel.app/api?username=nbsp1221&theme=tokyonight&hide_border=true&hide_title=true&card_width=495"
       alt="GitHub Stats"
     />
   </a>
@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=nbsp1221&theme=discord&no-frame=true&row=1&margin-w=4&margin-h=4"
+      src="https://github-profile-trophy-nbsp1221.vercel.app?username=nbsp1221&theme=discord&no-frame=true&row=1&margin-w=4&margin-h=4"
       alt="GitHub Trophies"
     />
   </a>
@@ -39,7 +39,7 @@
   <p></p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbsp1221&langs_count=10&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats-nbsp1221.vercel.app/api/top-langs/?username=nbsp1221&langs_count=10&theme=tokyonight&hide_border=true"
       alt="GitHub Top Languages"
     />
   </a>
@@ -49,7 +49,7 @@
   <p></p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=nbsp1221&theme=react&hide_border=true"
+      src="https://github-readme-stats-nbsp1221.vercel.app/api/wakatime?username=nbsp1221&theme=react&hide_border=true"
       alt="Wakatime Stats"
     />
   </a>
@@ -57,7 +57,7 @@
 <hr />
 <a href="https://github.com/nbsp1221">
   <img
-    src="https://komarev.com/ghpvc/?username=nbsp1221&color=blue&style=flat"
+    src="https://komarev.com/ghpvc/?username=nbsp1221&color=blue&style=for-the-badge"
     alt="Profile Views"
   />
 </a>
